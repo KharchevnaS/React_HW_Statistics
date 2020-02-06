@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_HW_Statistics/static/css/main.cc99c236.chunk.css",
+    "main.js": "/React_HW_Statistics/static/js/main.a5bfdf60.chunk.js",
+    "main.js.map": "/React_HW_Statistics/static/js/main.a5bfdf60.chunk.js.map",
+    "runtime-main.js": "/React_HW_Statistics/static/js/runtime-main.94b58846.js",
+    "runtime-main.js.map": "/React_HW_Statistics/static/js/runtime-main.94b58846.js.map",
+    "static/js/2.99db95ac.chunk.js": "/React_HW_Statistics/static/js/2.99db95ac.chunk.js",
+    "static/js/2.99db95ac.chunk.js.map": "/React_HW_Statistics/static/js/2.99db95ac.chunk.js.map",
+    "index.html": "/React_HW_Statistics/index.html",
+    "precache-manifest.1b37c1f2fb1c7adf7dd24fc23b0c3256.js": "/React_HW_Statistics/precache-manifest.1b37c1f2fb1c7adf7dd24fc23b0c3256.js",
+    "service-worker.js": "/React_HW_Statistics/service-worker.js",
+    "static/css/main.cc99c236.chunk.css.map": "/React_HW_Statistics/static/css/main.cc99c236.chunk.css.map",
+    "static/js/2.99db95ac.chunk.js.LICENSE": "/React_HW_Statistics/static/js/2.99db95ac.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94b58846.js",
+    "static/js/2.99db95ac.chunk.js",
+    "static/css/main.cc99c236.chunk.css",
+    "static/js/main.a5bfdf60.chunk.js"
+  ]
+}
